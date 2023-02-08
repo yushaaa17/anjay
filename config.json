@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6287843253876@s.whatsapp.net","6287843253876@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ Fahadd-MDོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/oh_pahadd",
+    "gcwa" : "https://chat.whatsapp.com/HywPBmjtz45IS1wnzthJD0",
+    "botName": "YushaBotzz-Mdོ ",
+    "footer": "YushaBotzz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./YF.jpg",
+    "BotKey": "iutXyctA",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
