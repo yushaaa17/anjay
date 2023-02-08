@@ -40,28 +40,21 @@ ${mundur}
  
 *MAIN MENU*${petik}
  • ${prefix}menu
- • ${prefix}infobot
  • ${prefix}donate
- • ${prefix}dashboard
  • ${prefix}owner
- • ${prefix}cekdrive
  • ${prefix}cekbandwidth
  • ${prefix}cekpremium
- • ${prefix}listpremium
- • ${prefix}listsewa
  • ${prefix}speed
  • ${prefix}runtime
  • ${prefix}listbahasa${petik}
 
 *CONVERTER/TOOLS*${petik} 
- • ${prefix}sticker/s < reply foto >
+ • ${prefix}sticker <reply foto>
  • ${prefix}stickerwm
  • ${prefix}smeme
  • ${prefix}toimg
  • ${prefix}tovideo
  • ${prefix}tomp3
- • ${prefix}ttp
- • ${prefix}attp
  • ${prefix}emojimix
  • ${prefix}nuliskiri
  • ${prefix}nuliskanan
@@ -71,7 +64,7 @@ ${mundur}
  • ${prefix}translate${petik}
 
 *ANONYMOUS CHATS*${petik}
- • ${prefix}menfess nama|62xxx|pesan
+ • ${prefix}menfess
  • ${prefix}anonymous
  • ${prefix}start
  • ${prefix}next
@@ -94,8 +87,8 @@ ${mundur}
  • ${prefix}delsetproses
  • ${prefix}changeproses
  • ${prefix}setproses
- • proses < reply chat >
- • done < reply chat >${petik}
+ • proses <reply chat>
+ • done <reply chat>${petik}
 
 *RPG GAMES*${petik}
  • ${prefix}inventory
