@@ -54,7 +54,7 @@ ${mundur}
  • ${prefix}listbahasa${petik}
 
 *CONVERTER/TOOLS*${petik} 
- • ${prefix}sticker
+ • ${prefix}sticker/s < reply foto >
  • ${prefix}stickerwm
  • ${prefix}smeme
  • ${prefix}toimg
@@ -516,4 +516,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `*LIST HARGA* \n15 Hari = Rp8.000 \n30 Hari = Rp15.000 \nUnlimited = Rp120.000`
+exports.sewanya = `*LIST HARGA* \n15 Hari = Rp8.000 \n30 Hari = Rp15.000 \nUnlimited = Rp120.000 \n\n*Sewa Bot? klik link dibawah*\nhttps://en.wh.ms/6287843253876`
