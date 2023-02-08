@@ -139,8 +139,7 @@ ${mundur}
  • ${prefix}tiktok
  • ${prefix}tiktoknowm
  • ${prefix}tiktokaudio
- • ${prefix}mediafire
- • ${prefix}gitclone${petik}
+ • ${prefix}mediafire${petik}
 
 *GROUP MENU*${petik}
  • ${prefix}afk
@@ -183,7 +182,6 @@ ${mundur}
  • ${prefix}delcasino${petik}
 
 *SEARCH MENU*${petik}
- • ${prefix}lirik
  • ${prefix}grupwa
  • ${prefix}pinterest
  • ${prefix}ytsearch${petik}
